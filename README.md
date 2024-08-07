@@ -9,9 +9,9 @@ However, these methods depend on large-labeled datasets. To address the limitati
 propose a novel technique for automatic labeling and segmentaition on limited datasets. 
 ``
 ## Architecture Diagram
-```
+`
 We compare the following architectures
-```
+`
 
 ![cnn_architectures](https://github.com/user-attachments/assets/0e39ef85-f607-4651-a520-2c898cc55288)
 
