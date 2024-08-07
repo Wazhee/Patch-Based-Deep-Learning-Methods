@@ -8,6 +8,8 @@ Convolutional neural networks (CNNs) have been applied to various microscopy and
 However, these methods depend on large-labeled datasets. To address the limitations of current EDS detectors and CNNs,
 propose a novel technique for automatic labeling and segmentaition on limited datasets. 
 ``
+## Architecture Diagram
+
 
 ![cnn_architectures](https://github.com/user-attachments/assets/0e39ef85-f607-4651-a520-2c898cc55288)
 
