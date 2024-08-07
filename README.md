@@ -1,4 +1,4 @@
-# Patch-Based-Deep-Learning-Methods
+# Patch-Based Convolutional Neural Networks (PBCNNs)
 
 ![Architecture Diagram](https://github.com/user-attachments/assets/569751a3-e109-4aae-af28-ca312123d3e8)
 
